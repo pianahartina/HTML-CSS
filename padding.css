@@ -1,0 +1,28 @@
+div {
+	/*width: 300px;
+	height: 300px;
+	background-color: coral;
+	margin: 20px auto;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	border: 50px solid red;*/
+
+	width: 600px;
+	margin: 20px auto;
+	box-sizing: border-box;
+
+}
+
+.satu {
+background-color: pink;
+padding: 10px;
+border: 5px solid black;
+}
+
+.dua {
+background-color: green;
+padding: 30px;
+border: 5px dashed gold;
+}

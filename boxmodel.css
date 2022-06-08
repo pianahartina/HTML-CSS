@@ -1,0 +1,23 @@
+/*
+body, h1, p {
+	margin: 0;
+	padding: 0;
+} melakukan reset agar format sesuai yang diinginkan 
+bisa juga menggunakan sintak:
+
+* {
+	margin: 0;
+	padding: 0; 
+} hal ini dilakukan untuk mengubah seluruh halaman html kita menjadi margin dan padding 0
+namun hal ini tidak disarnkan karena "berat"
+
+
+bisa juga menggunakan sintak pada web meyerweb.com (CSS reset) lalu copas listingnya diatas sintak kita dan ketik sintak css reset di dalam komentar baru setelah itu ketik elemen yang mau digunakan */
+
+
+div {
+	width: 200px;
+	height: 200px;
+	background-color: green;
+} /* listing tag div ini akan menghasilkan dimensi yang berjarak walpun belum diberi
+margin, maka untuk menghilangkan ukuran body yang default, tambahkan listing body diatas div seperti */
